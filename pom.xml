@@ -19,7 +19,7 @@
   <repository>
   <id>github</id>
   <name>github packages</name>
-  <url>maven.packages.github.com/Jett59/jdk-15-archetype</url>
+  <url>https://maven.packages.github.com/Jett59/jdk-15-archetype</url>
   </repository>
   </distributionManagement>
 </project>
